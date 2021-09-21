@@ -7,7 +7,7 @@
 
 ***You can use this Awesome Craiglist Scrapper as an alternative to  traditional old craiglist.
 As default this App scrapes from https://chennai.craigslist.org/ depending upon ur location.
-you can change this site ***
+you can change this site***
 
 
 **If you don't want this run on your Localhost.You can host it on Heroku or pythonanywhere**
